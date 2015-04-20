@@ -445,8 +445,8 @@ var MainApp = React.createClass({
                     React.createElement(
                         "div", {className: "col-sm-4"},
                         this.state.ona_user !== null ? React.createElement(OpenStreetMapAuth, {
-                            oauthConsumerKey: 'OTlOD6gfLnzP0oot7uA0w6GZdBOc5gQXJ0r7cdG4',
-                            oauthSecret: 'cHPXxC3JCa9PazwVA5XOQkmh4jQcIdrhFePBmbSJ',
+                            oauthConsumerKey: 'CfrPc4aAJpJVTKS4XGRrmtWA3B6uFWv1WC5WrykU',
+                            oauthSecret: 'sQF4ASii8QGFNO9XBqJm1MVXjIbiscxKGNel4Ken',
                             landing: '/',
                             osmLoginSuccess: this.setOSMAuth
                         }): null
